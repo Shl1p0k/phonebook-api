@@ -2,7 +2,7 @@
   "name": "phonebook-api",
   "version": "1.0.0",
   "scripts": {
-    "start": "json-server phonebook.json --port $PORT"
+    "start": "json-server phonebook.json --host 0.0.0.0 --port $PORT"
   },
   "dependencies": {
     "json-server": "^0.17.4"
