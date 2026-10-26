@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "first_name": "Иван",
+      "last_name": "Иванов",
+      "phone": "+7 (999) 123-45-67",
+      "email": "ivan@email.ru"
+    },
+    {
+      "id": 2,
+      "first_name": "Пётр",
+      "last_name": "Петров",
+      "phone": "+7 (999) 765-43-21",
+      "email": "petr@email.ru"
+    },
+    {
+      "id": 3,
+      "first_name": "Анна",
+      "last_name": "Сидорова",
+      "phone": "+7 (999) 111-22-33",
+      "email": "anna@email.ru"
+    },
+    {
+      "id": 4,
+      "first_name": "Мария",
+      "last_name": "Кузнецова",
+      "phone": "+7 (999) 444-55-66",
+      "email": "maria@email.ru"
+    }
+  ]
+}
